@@ -2,7 +2,7 @@
 
 <p style="text-align: center;">
   🧑‍💻 Enjoy working on solving problems<br>
-  🎓 Completed B.E in Computer Science of Engineering
+  🎓 Completed B.E in Computer Science and Engineering
 </p>
 
 
